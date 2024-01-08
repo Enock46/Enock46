@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Enock46 but real name is Enock Luhimbo
 - 👀 I’m interested in ...software development especially Mobile App development with Flutter and Cybersecurity
-- - 👀 I’m interested in ... Cybersecurity
+- 👀 I’m interested in ... Cybersecurity
 - 🌱 I’m currently learning ...Flutter and Website Development
 - 💞️ I’m looking to collaborate on ... any Mobile App development
 - 📫 How to reach me ... enockluhimbo@gmail.com ,
